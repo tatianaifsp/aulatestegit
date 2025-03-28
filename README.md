@@ -1,2 +1,12 @@
-# aulatestegit
-Teste git
+# aulateste
+
+github Desktop
+
+Github Vs Code
+
+Github Terminal BaSH
+
+Page
+
+
+

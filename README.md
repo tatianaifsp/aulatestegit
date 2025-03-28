@@ -1,12 +1,10 @@
-# aulateste
+Atividade da disciplina de desenvolvimento Web
 
-github Desktop
+Tecnologia usada :
 
-Github Vs Code
+Linguagem de Marcação: HTML5, CSS3
 
-Github Terminal BaSH
-
-Page
+Layout Flexbox
 
 
 
